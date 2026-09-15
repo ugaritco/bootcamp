@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "ugarit-boost": {
+            "command": "php",
+            "args": [
+                "./scribe",
+                "boost:mcp"
+            ]
+        }
+    }
+}
